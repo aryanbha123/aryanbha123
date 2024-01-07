@@ -5,7 +5,7 @@
 
 ## Socials
 
-- [Instagram](#) ![Instagram](https://img.shields.io/badge/-Instagram-red)(https://goggle.com) - [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
+- [Instagram](#) ![Instagram](https://img.shields.io/badge/-Instagram-red) - [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
 - [Twitter](#) ![Twitter](https://img.shields.io/badge/-Twitter-lightblue)
 - [Facebook](#) ![Facebook](https://img.shields.io/badge/-Facebook-blue)
 
