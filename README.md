@@ -4,12 +4,12 @@
 - **Education:** BCA@UPES Dehradun, Sem 2
 
 ## Socials
-
+<div style="display:flex;">
 - [Instagram](#) ![Instagram](https://img.shields.io/badge/-Instagram-red)
 - [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
 - [Twitter](#) ![Twitter](https://img.shields.io/badge/-Twitter-lightblue)
 - [Facebook](#) ![Facebook](https://img.shields.io/badge/-Facebook-blue)
-
+</div>
 ## Tech Stack
 
 - [Django](#) ![Django](https://img.shields.io/badge/-Django-black)
