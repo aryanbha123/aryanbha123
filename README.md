@@ -5,7 +5,7 @@
 
 ## Socials
 
-<h1>-[Instagram](#) ![Instagram](https://img.shields.io/badge/-Instagram-red) [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)</h1>
+-[Instagram](#) ![Instagram](https://img.shields.io/badge/-Instagram-red) [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
 - [Twitter](#) ![Twitter](https://img.shields.io/badge/-Twitter-lightblue) [Facebook](#) ![Facebook](https://img.shields.io/badge/-Facebook-blue)
 
 ## Tech Stack
