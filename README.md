@@ -1,25 +1,27 @@
 # Hello, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests and skills], and I enjoy working on [specific projects or technologies].
+Welcome to my GitHub profile! I'm a BCA student in semester 2 with a CGPA of 8.76. I'm passionate about web development and have hands-on experience freelancing on a webpage with an ERP system.
 
 ## 🚀 About Me
 
-- 💼 Currently working as [your job title] at [your company].
-- 🌱 Learning and exploring [technologies or skills you're currently focusing on].
-- 👯 Open for collaboration on [types of projects you're interested in].
-- 🤔 Looking for help with [specific challenges or topics].
-- 💬 Ask me about [topics or technologies you're knowledgeable about].
-- 📫 Reach me at [your email address].
-- ⚡ Fun fact: [Share an interesting fact about yourself].
+- 💼 Currently a BCA student, exploring the world of computer science.
+- 🌱 Learning and exploring technologies like HTML, CSS, and JavaScript.
+- 👯 Open for collaboration on web development projects and eager to contribute to open-source.
+- 🤔 Looking for help with mastering front-end development and design principles.
+- 💬 Ask me about my experiences as a BCA student, freelancing, or anything related to web development.
+- 📫 Reach me at [Your Email Address].
+- ⚡ Fun fact: I enjoy solving algorithmic challenges in my free time.
 
 ## 🔧 Technologies & Tools
 
-[List some of the technologies and tools you're familiar with. For example:]
-- Programming Languages: [List languages]
-- Web Technologies: [List technologies]
-- Frameworks & Libraries: [List frameworks and libraries]
-- Databases: [List databases]
-- Tools: [List tools]
+- **Languages:** HTML, CSS, JavaScript
+- **Front-end Frameworks:** React.js (in progress)
+- **Version Control:** Git
+- **Code Editors:** Visual Studio Code
+
+## 🛠️ Freelance Experience
+
+- **Webpage with ERP System:** I've freelanced on a webpage with an ERP system, managing end-to-end development, design, and implementation.
 
 ## 📈 GitHub Stats
 
@@ -27,20 +29,15 @@ Welcome to my GitHub profile! I'm passionate about [your interests and skills], 
 
 ## 📚 Featured Projects
 
-[Highlight a few projects you are proud of, with links and brief descriptions.]
-
-1. [Project 1](link) - Description of Project 1.
-2. [Project 2](link) - Description of Project 2.
-3. [Project 3](link) - Description of Project 3.
+1. [Personal Portfolio](link) - A showcase of my journey as a BCA student and web developer.
+2. [HTML/CSS Website](link) - A simple website built with HTML and CSS.
+3. [React Project](link) - An ongoing project to master React.js.
 
 ## 🌐 Connect with Me
-
-[Add links to your social media profiles, personal website, etc.]
 
 - [LinkedIn](your-linkedin-profile)
 - [Twitter](your-twitter-profile)
 - [Personal Website/Blog](your-website)
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat! 😊
-
+Feel free to explore my repositories and connect with me! I'm open to learning and collaborating on exciting projects. 😊
 
