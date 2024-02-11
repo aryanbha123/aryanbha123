@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 - 💼 Currently a BCA student, exploring the world of computer science.
 - 🌱 Learning and exploring technologies like HTML, CSS, and JavaScript.
 - 👯 Open for collaboration on web development projects and eager to contribute to open-source.
-- 🤔 Looking for help with mastering front-end development and design principles.
-- 💬 Ask me about my experiences as a BCA student, freelancing, or anything related to web development.
 - 📫 Reach me at aryanbhandari4077@gmail.com.
 - ⚡ Fun fact: I enjoy solving algorithmic challenges in my free time.
 
