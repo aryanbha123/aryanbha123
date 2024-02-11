@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 - 👯 Open for collaboration on web development projects and eager to contribute to open-source.
 - 🤔 Looking for help with mastering front-end development and design principles.
 - 💬 Ask me about my experiences as a BCA student, freelancing, or anything related to web development.
-- 📫 Reach me at [Your Email Address].
+- 📫 Reach me at aryanbhandari4077@gmail.com.
 - ⚡ Fun fact: I enjoy solving algorithmic challenges in my free time.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript
-- **Front-end Frameworks:** React.js (in progress)
+- **Languages:** HTML, CSS, JavaScript , C++
+- **Front-end Frameworks:** React.js & Django (in progress)
 - **Version Control:** Git
 - **Code Editors:** Visual Studio Code
 
