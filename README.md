@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Aryan 👋
 
 Welcome to my GitHub profile! I'm a BCA student in semester 2 with a CGPA of 8.76. I'm passionate about web development and have hands-on experience freelancing on a webpage with an ERP system.
 
