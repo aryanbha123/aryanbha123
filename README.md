@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 ## 🛠️ Freelance Experience
 
 - **Webpage with ERP System:** I've freelanced on a webpage with an ERP system, managing end-to-end development, design, and implementation.
+- hers's Link - https://www.tgci.in
 
 ## 📈 GitHub Stats
 
