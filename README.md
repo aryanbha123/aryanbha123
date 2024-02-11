@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 - **Languages:** HTML, CSS, JavaScript , C++
 - **Front-end Frameworks:** React.js & Django (in progress)
 - **Version Control:** Git
-- **Code Editors:** Visual Studio Code
+- **Code Editors:** Visual Studio Code  
 
 ## 🛠️ Freelance Experience
 
@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
+- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/aryan-bhandari-555962286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](https://x.com/__aryanbhandari?t=TNbRMx34eewPy_fkf64hEw&s=09)
 - [Instagram](https://www.instagram.com/____aryanbhandari?igsh=MWF0YTk3MGF1eXY0OQ%3D%3D)
 - [Personal Website/Blog](your-website)
 
