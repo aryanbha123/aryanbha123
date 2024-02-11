@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 
 - [LinkedIn](your-linkedin-profile)
 - [Twitter](your-twitter-profile)
+- [Instagram](https://www.instagram.com/____aryanbhandari?igsh=MWF0YTk3MGF1eXY0OQ%3D%3D)
 - [Personal Website/Blog](your-website)
 
 Feel free to explore my repositories and connect with me! I'm open to learning and collaborating on exciting projects. 😊
