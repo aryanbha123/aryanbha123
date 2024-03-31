@@ -12,16 +12,17 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript , C++
-- **Front-end Frameworks:** React.js & Django (in progress)
+- **Languages:** HTML, CSS, JavaScript , C++ , PYTHON
+- **Front-end Frameworks:** React.js
+- **Back-end Frameworks:** Django & PHP
 - **Version Control:** Git
 - **Code Editors:** Visual Studio Code  
 
 ## 🛠️ Freelance Experience
 
 - **Webpage with ERP System:** I've freelanced on a webpage with an ERP system, managing end-to-end development, design, and implementation.
-- hers's Link - https://www.tgci.in
-
+- hers's Link - https://www.tgci.in , https://lms.tgci.in
+  
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
