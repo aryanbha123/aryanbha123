@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passi
 
 - **Languages:** HTML, CSS, JavaScript , C++ , PYTHON
 - **Front-end Frameworks:** React.js
-- **Back-end Frameworks:** Django & PHP
+- **Back-end Frameworks:** Node.js & PHP
 - **Version Control:** Git
 - **Code Editors:** Visual Studio Code  
 
