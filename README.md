@@ -1,44 +1,65 @@
-# Hello, I'm Aryan 👋
+# 👋 Hi, I'm Aryan Bhandari
 
-Welcome to my GitHub profile! I'm a BCA student in semester 2 at UPES. I'm passionate about web development and have hands-on experience freelancing on a webpage with an ERP system.
+🎓 A passionate **BCA student** from **UPES**, currently in my **2nd year (3rd semester)** with a **CGPA of 8.6**, on a journey to become a **Software Development Engineer (SDE)**. I love exploring core computer science concepts, building real-world projects, and deep-diving into how things work under the hood.
 
-## 🚀 About Me
+---
 
-- 💼 Currently a BCA student, exploring the world of computer science.
-- 🌱 Learning and exploring technologies like HTML, CSS, and JavaScript.
-- 👯 Open for collaboration on web development projects and eager to contribute to open-source.
-- 📫 Reach me at aryanbhandari4077@gmail.com.
-- ⚡ Fun fact: I enjoy solving algorithmic challenges in my free time.
+## 🚀 Tech Stack & Skills
 
-## 🔧 Technologies & Tools
+### 💻 Languages
+- C, C++, Java, Python
+- JavaScript, TypeScript, PHP (basic)
+- SQL, PL/SQL, Bash (basic)
 
-- **Languages:** HTML, CSS, JavaScript , C++ , PYTHON
-- **Front-end Frameworks:** React.js
-- **Back-end Frameworks:** Node.js & PHP
-- **Version Control:** Git
-- **Code Editors:** Visual Studio Code  
+### 🌐 Web Development
+- **Frontend:** React.js, Angular (basic), HTML, CSS, Tailwind, Material UI, Bootstrap
+- **Backend:** Node.js, Express.js, PHP (basic), Django (basic)
+- **Full Stack:** MERN (MongoDB, Express, React, Node.js)
 
-## 🛠️ Freelance Experience
+### 📦 Databases & APIs
+- MongoDB, MySQL, PostgreSQL, MariaDB
+- RESTful APIs, Prisma ORM
+- Redis, RabbitMQ
 
-- **Webpage with ERP System:** I've freelanced on a webpage with an ERP system, managing end-to-end development, design, and implementation.
-- hers's Link - https://www.tgci.in , https://lms.tgci.in
-  
-## 📈 GitHub Stats
+### 🧠 DSA & CS Fundamentals
+- Data Structures: Array, Linked List, Stack, Queue, Heap, Graph, BST, AVL
+- Algorithms: Dijkstra, Prim's, Kadane’s, Sliding Window, 3-pointer
+- Core Subjects: OOP, DBMS, OS (basic), Computer Networks (basic)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbha123&show_icons=true&theme=radical)
+### 🤖 Machine Learning & Data Science
+- Models: SVM, Naive Bayes, Random Forest
+- Techniques: Feature Engineering, Feature Selection, Gradient Descent
+- Tools: Pandas, NumPy, scikit-learn, Apache Spark (learning)
 
-## 📚 Featured Projects
+### 🛠️ Tools & DevOps
+- Git & GitHub, Docker, Kubernetes (learning)
+- CI/CD, AWS (learning)
+- Visual Studio Code, Postman, Thunder Client, Canva
 
-1. [Personal Portfolio](link) - A showcase of my journey as a BCA student and web developer.
-2. [HTML/CSS Website](link) - A simple website built with HTML and CSS.
-3. [React Project](link) - An ongoing project to master React.js.
+---
 
-## 🌐 Connect with Me
+## 📚 Currently Learning
+- 🧠 System Design & Low-Level Design (LLD)
+- ☁️ AWS & Cloud Services
+- 🔁 Multithreading in Java
+- 🔧 Cyclic Redundancy Check (CRC)
+- 🧠 Optimization in ML workflows
 
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/aryan-bhandari-555962286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://x.com/__aryanbhandari?t=TNbRMx34eewPy_fkf64hEw&s=09)
-- [Instagram](https://www.instagram.com/____aryanbhandari?igsh=MWF0YTk3MGF1eXY0OQ%3D%3D)
-- [Personal Website/Blog](your-website)
+---
 
-Feel free to explore my repositories and connect with me! I'm open to learning and collaborating on exciting projects. 😊
+## 🌐 Portfolio & Projects
+- 🔗 [Portfolio Website](https://aryanbhandari.online)
+- 💻 DEVELOPER @ [binarykeeda.com](https://binarykeeda.com)
+- 🌟 Projects: Attendance Systems (GeoFence), MERN Chatroom, Disease Prediction ML App, etc.
+
+---
+
+## 🤝 Let's Connect!
+- 📫 **Email:** aryanbhandarideveloper@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryanbhandaridev)
+- 🗂️ [Resume](#) *(Add link if hosted)*
+
+---
+
+> “Stay curious, break things, fix them, and learn deeply.”
 
