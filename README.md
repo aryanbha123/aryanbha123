@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Bhandari</h1>
 <h3 align="center">BCA Student | Aspiring SDE | MERN Stack Developer | Machine Learning Enthusiast</h3>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+building+real+solutions;Loves+Data+Structures+%26+Algorithms;Learning+Cloud%2C+System+Design%2C+and+ML" alt="Typing SVG" />
 </p>
 
