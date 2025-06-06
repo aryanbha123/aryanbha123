@@ -3,7 +3,7 @@
 
 <div style="overflow-x: auto; width: 100%;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AAAPassionate+about+building+real+solutions;LLoves+Data+Structures+%26+Algorithms;Learning+Cloud%2C+System+Design%2C+and+ML"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+building+real+solutions;Loves+Data+Structures+%26+Algorithms;Learning+Cloud%2C+System+Design%2C+and+ML"
     alt="Typing SVG"
     style="min-width: 600px"
   />
