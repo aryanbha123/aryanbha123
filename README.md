@@ -66,7 +66,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbha123&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanbha123&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 ---
