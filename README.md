@@ -49,7 +49,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aaryanbhandari?theme=dark&font=Fira%20Code&ext=heatmap" height="250" />
+  <img src="https://leetcard.jacoblin.cool/aryanbha123?theme=dark&font=Fira%20Code&ext=heatmap" height="250" />
 </p>
 
 ---
