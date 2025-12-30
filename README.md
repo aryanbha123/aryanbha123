@@ -14,7 +14,7 @@
 ## 🔧 Tech Stack
 
 ### 💻 Languages
-`C` `C++` `Python` `Java` `JavaScript` `PHP (basic)` `SQL` `TypeScript`
+`C` `C++` `Python` `Java` `JavaScript` `PHP (basic)` `SQL` `TypeScript` `react js` `node js` `next js` `express js` 
 
 ### 🌐 Web
 - **Frontend:** React.js, Angular (basic), HTML, CSS, Tailwind, Material UI, Bootstrap
