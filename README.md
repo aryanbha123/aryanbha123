@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Bhandari</h1>
-<h3 align="center">Aspiring SDE | MERN Stack Developer | DevOps </h3>
+<h3 align="center">SDE | MERN Stack Developer | DevOps </h3>
 
 <div style="overflow-x: auto; width: 100%;">
   <img
