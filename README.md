@@ -39,6 +39,7 @@ Building high-performance systems with <b>low latency, scalability, and real-wor
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/aryanbha123" />
   <img src="https://github-readme-stats.vercel.app/api?username=aryanbha123&show_icons=true&theme=github_dark&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanbha123&theme=github-dark&hide_border=true" height="165"/>
 </p>
