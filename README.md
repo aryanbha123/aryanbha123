@@ -85,26 +85,26 @@
 |---|---|---|---|
 | 1 | 🤖 [**pr-review-bot**](https://github.com/aryanbha123/pr-review-bot) | Local AI PR reviewer for macOS: Claude Code, Codex or Gemini CLI reviews every new PR and push, posts comments, with a localhost dashboard | Shell · GitHub CLI · launchd |
 | 2 | 🎟️ [**Spring Boot Booking API**](https://github.com/aryanbha123/spring-boot-booking-app) | Booking service with per-user rate limiting (Bucket4j) and a RabbitMQ queue + worker for async processing | Java · Spring Boot · RabbitMQ · Docker |
-| 3 | 🐹 [**Go CRUD API**](https://github.com/aryanbha123/go-lag-crud) | Layered REST API (routes → handlers → services → repository) with bcrypt hashing | Go · Gin · PostgreSQL (pgx) · Docker |
+| 3 | 🐹 [**Go CRUD API**](https://github.com/aryanbha123/go-crud-api) | Layered REST API (routes → handlers → services → repository) with bcrypt hashing | Go · Gin · PostgreSQL (pgx) · Docker |
 | 4 | 🩺 [**Disease Prediction System**](https://github.com/aryanbha123/Disease-Prediction-System) | Symptom chatbot where SVM + Random Forest + Naive Bayes vote (**92% accuracy**), Gemini writes the reply, plus a lifestyle-risk model | Python · scikit-learn · Flask · React |
 | 5 | 🌱 [**Eco Bloom**](https://github.com/aryanbha123/ECO-BLOOM) | Plantation-drive & donation platform: Express microservices behind an API gateway, Stripe donations, admin analytics | Node.js · Microservices · Stripe · React |
 | 6 | 📊 [**Graph Visualiser**](https://github.com/aryanbha123/Graph-Visualiser) | Build a graph, run BFS, DFS, Prim's or Dijkstra (Java) through an Express server and watch it animate | React · vis-network · Node.js · Java |
 | 7 | 🗺️ [**Distance Calculator**](https://github.com/aryanbha123/Distance-Calculator) | Compares Ant Colony Optimisation, A* and Beam Search (C++) on 14 Dehradun landmarks | C++ · Node.js · React |
 | 8 | 📍 [**Geo-Attend**](https://github.com/aryanbha123/Geo-Attend-Frontend) | Geofenced attendance with face check-in | React · face-api.js · Express · MongoDB |
 | 9 | 👵 [**Elderly Care**](https://github.com/aryanbha123/Elderly-Care) | Family, doctor and caregiver dashboards with JWT auth and real-time Socket.IO chat | MERN · Socket.IO |
-| 10 | 📝 [**Assessment Platform Backend**](https://github.com/aryanbha123/assesment-platform-backend) | Assessment API with a BullMQ grading worker and a mail cron | Node.js · BullMQ · Redis · MongoDB |
+| 10 | 📝 [**Assessment Platform Backend**](https://github.com/aryanbha123/assessment-platform-backend) | Assessment API with a BullMQ grading worker and a mail cron | Node.js · BullMQ · Redis · MongoDB |
 | 11 | 🏔️ [**Nag Tibba Treks**](https://github.com/aryanbha123/nagtibba-trek) | SEO-first Next.js rebuild of a trekking business site: JSON-LD, sitemap, Open Graph | Next.js 15 · TypeScript |
-| 12 | 🏫 [**Tons Valley Education**](https://github.com/aryanbha123/toonsvalleyeducationscenter) | Client school website with an admin panel for gallery and newsletters | MERN · Cloudinary · JWT |
+| 12 | 🏫 [**Tons Valley Education**](https://github.com/aryanbha123/tons-valley-education) | Client school website with an admin panel for gallery and newsletters | MERN · Cloudinary · JWT |
 
 <details>
 <summary><b>More projects</b></summary>
 
 - 💬 [angular-postapp](https://github.com/aryanbha123/angular-postapp): Angular posts & comments app
-- 📝 [upes-1](https://github.com/aryanbha123/upes-1): "Bloggy" blog app (React 19 + TS, Express, MongoDB)
+- 📝 [bloggy](https://github.com/aryanbha123/bloggy): "Bloggy" blog app (React 19 + TS, Express, MongoDB)
 - 🏠 [Urban-Nest](https://github.com/aryanbha123/Urban-Nest): real-estate listings with filters
-- 📚 [StudySphere-Client](https://github.com/aryanbha123/StudySphere-Client) + [backend](https://github.com/aryanbha123/StudySpeher-backend): AI study assistant, notes, quiz bank, code playground
+- 📚 [StudySphere-Client](https://github.com/aryanbha123/StudySphere-Client) + [backend](https://github.com/aryanbha123/studysphere-backend): AI study assistant, notes, quiz bank, code playground
 - 🎓 [Techease-Frontend](https://github.com/aryanbha123/Techease-Frontend) + [backend](https://github.com/aryanbha123/Techease-Backend): quiz portal with AI quiz generation
-- 💰 [Finance-Managmet](https://github.com/aryanbha123/Finance-Managmet): Java Swing + PostgreSQL expense tracker with charts
+- 💰 [finance-management](https://github.com/aryanbha123/finance-management): Java Swing + PostgreSQL expense tracker with charts
 - 🧮 [DSA-Java](https://github.com/aryanbha123/DSA-Java) · [neetcode-submissions](https://github.com/aryanbha123/neetcode-submissions-fwh5x9yp) · [upes-100days-dsa](https://github.com/aryanbha123/upes-100days-dsa): DSA practice
 
 </details>
