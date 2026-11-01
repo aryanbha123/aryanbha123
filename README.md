@@ -79,19 +79,38 @@
 
 ## 🧩 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🤖 [pr-review-bot](https://github.com/aryanbha123/pr-review-bot) | Local AI PR reviewer for macOS: Claude Code, Codex or Gemini CLI reviews every new PR and push, with a localhost dashboard | Shell · GitHub CLI |
-| 🕵️ [competitor-research-agent](https://github.com/aryanbha123/competitor-research-agent) | Daily research agent that tracks competitors and briefs the team in Slack | Python · Slack |
-| 🐹 [go-lag-crud](https://github.com/aryanbha123/go-lag-crud) | CRUD REST API in Go | Go · Gin · PostgreSQL (pgx) · Docker |
-| 🩺 [Disease Prediction System](https://github.com/aryanbha123/Disease-Prediction-System) | Ensemble ML model (SVM + Random Forest + Naive Bayes), **92% accuracy**, served via a Flask API | Python · scikit-learn · Flask |
-| 📊 [Graph Visualiser](https://github.com/aryanbha123/Graph-Visualiser) | Step-by-step visualisation of BFS, DFS and Dijkstra for intuitive DSA learning | React · Node.js · Java |
-| 📍 [Geo-Attend](https://github.com/aryanbha123/Geo-Attend-Frontend) | Geo-location based attendance system ([backend](https://github.com/aryanbha123/Geo-Attend-Backend)) | MERN |
-| 🏔️ [Nag Tibba Trek](https://github.com/aryanbha123/nagtibba-trek) | SEO-friendly, server-rendered rebuild of a trekking site | Next.js 15 |
-| 🧮 [DSA-Java](https://github.com/aryanbha123/DSA-Java) | DSA practice and problem solutions | Java |
+> Ordered best-first. Every repo has a full README with setup steps.
+
+| # | Project | What it is | Stack |
+|---|---|---|---|
+| 1 | 🤖 [**pr-review-bot**](https://github.com/aryanbha123/pr-review-bot) | Local AI PR reviewer for macOS: Claude Code, Codex or Gemini CLI reviews every new PR and push, posts comments, with a localhost dashboard | Shell · GitHub CLI · launchd |
+| 2 | 🎟️ [**Spring Boot Booking API**](https://github.com/aryanbha123/spring-boot-booking-app) | Booking service with per-user rate limiting (Bucket4j) and a RabbitMQ queue + worker for async processing | Java · Spring Boot · RabbitMQ · Docker |
+| 3 | 🐹 [**Go CRUD API**](https://github.com/aryanbha123/go-lag-crud) | Layered REST API (routes → handlers → services → repository) with bcrypt hashing | Go · Gin · PostgreSQL (pgx) · Docker |
+| 4 | 🩺 [**Disease Prediction System**](https://github.com/aryanbha123/Disease-Prediction-System) | Symptom chatbot where SVM + Random Forest + Naive Bayes vote (**92% accuracy**), Gemini writes the reply, plus a lifestyle-risk model | Python · scikit-learn · Flask · React |
+| 5 | 🌱 [**Eco Bloom**](https://github.com/aryanbha123/ECO-BLOOM) | Plantation-drive & donation platform: Express microservices behind an API gateway, Stripe donations, admin analytics | Node.js · Microservices · Stripe · React |
+| 6 | 📊 [**Graph Visualiser**](https://github.com/aryanbha123/Graph-Visualiser) | Build a graph, run BFS, DFS, Prim's or Dijkstra (Java) through an Express server and watch it animate | React · vis-network · Node.js · Java |
+| 7 | 🗺️ [**Distance Calculator**](https://github.com/aryanbha123/Distance-Calculator) | Compares Ant Colony Optimisation, A* and Beam Search (C++) on 14 Dehradun landmarks | C++ · Node.js · React |
+| 8 | 📍 [**Geo-Attend**](https://github.com/aryanbha123/Geo-Attend-Frontend) | Geofenced attendance with face check-in | React · face-api.js · Express · MongoDB |
+| 9 | 👵 [**Elderly Care**](https://github.com/aryanbha123/Elderly-Care) | Family, doctor and caregiver dashboards with JWT auth and real-time Socket.IO chat | MERN · Socket.IO |
+| 10 | 📝 [**Assessment Platform Backend**](https://github.com/aryanbha123/assesment-platform-backend) | Assessment API with a BullMQ grading worker and a mail cron | Node.js · BullMQ · Redis · MongoDB |
+| 11 | 🏔️ [**Nag Tibba Treks**](https://github.com/aryanbha123/nagtibba-trek) | SEO-first Next.js rebuild of a trekking business site: JSON-LD, sitemap, Open Graph | Next.js 15 · TypeScript |
+| 12 | 🏫 [**Tons Valley Education**](https://github.com/aryanbha123/toonsvalleyeducationscenter) | Client school website with an admin panel for gallery and newsletters | MERN · Cloudinary · JWT |
+
+<details>
+<summary><b>More projects</b></summary>
+
+- 💬 [angular-postapp](https://github.com/aryanbha123/angular-postapp): Angular posts & comments app
+- 📝 [upes-1](https://github.com/aryanbha123/upes-1): "Bloggy" blog app (React 19 + TS, Express, MongoDB)
+- 🏠 [Urban-Nest](https://github.com/aryanbha123/Urban-Nest): real-estate listings with filters
+- 📚 [StudySphere-Client](https://github.com/aryanbha123/StudySphere-Client) + [backend](https://github.com/aryanbha123/StudySpeher-backend): AI study assistant, notes, quiz bank, code playground
+- 🎓 [Techease-Frontend](https://github.com/aryanbha123/Techease-Frontend) + [backend](https://github.com/aryanbha123/Techease-Backend): quiz portal with AI quiz generation
+- 💰 [Finance-Managmet](https://github.com/aryanbha123/Finance-Managmet): Java Swing + PostgreSQL expense tracker with charts
+- 🧮 [DSA-Java](https://github.com/aryanbha123/DSA-Java) · [neetcode-submissions](https://github.com/aryanbha123/neetcode-submissions-fwh5x9yp) · [upes-100days-dsa](https://github.com/aryanbha123/upes-100days-dsa): DSA practice
+
+</details>
 
 <p align="center">
-  <a href="https://github.com/aryanbha123?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/aryanbha123?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories" /></a>
 </p>
 
 ---
@@ -99,16 +118,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanbha123&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=aryanbha123&theme=github-dark&hide_border=true" height="165" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbha123&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=aryanbha123&theme=github-dark&hide_border=true" alt="GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbha123&theme=github-compact&hide_border=true" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanbha123/aryanbha123/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
